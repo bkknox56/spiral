@@ -12,10 +12,8 @@ public class SampleCode {
 		}
 		private void empPhone() {
 			
-			System.out.println("abcdefooad");
+			System.out.println("dakalkaskldjkl");
+			System.out.println("empPhone");
 		}
-<<<<<<< HEAD
-=======
-		
->>>>>>> a32559f4d4ebfd90f8bcadf949b6621c2fc2c312
+
 }
