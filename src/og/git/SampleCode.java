@@ -10,4 +10,9 @@ public class SampleCode {
 			
 			System.out.println("empName");
 		}
+		private void empPhone() {
+			
+			System.out.println("empPhone");
+		}
+		
 }
